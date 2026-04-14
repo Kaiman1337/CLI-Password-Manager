@@ -1,2 +1,2 @@
-# passwdmgr
-Python CLI password manager
+# CLI Password Manager
+Python CLI simple password manager
